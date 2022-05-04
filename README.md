@@ -1,7 +1,8 @@
 # Consumo-drogas
-Repositorio con archivos .bib de una búsqueda realizada en scopus en septiembre del año 2019 sobre "consumo" + "drogas".
+repository with the .bib files. the repo contains all the documents for a bibliometry i made about drugs and consume. 
+The bibliometry was made in septembre 2019, but never finished. 
 
-El algoritmo que se usó fué:
+the search algorithm was:
 
 
 TITLE-ABS-KEY ( "drugs consumption" )   
